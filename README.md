@@ -10,7 +10,7 @@ Added features are :
 3. Unquie name in same level.
 4. Only folders will contains childs like files or other folders.
 5. Contextmenu will appear different for files and folders.
-6. Abilty to drag -drop folders/files.
+6. Ability to drag -drop folders/files.
 7. Cut/paste functionality.
 8. Multiple selection using Ctl key.
 
